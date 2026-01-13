@@ -145,3 +145,4 @@ This means the factory should produce **40 units of Product A** and **20 units o
 This project successfully demonstrates the practical application of **Linear Programming** using **Python, PuLP, and Google Colab** to solve production optimization challenges. By converting real-world business constraints into a mathematical model, organizations can make smarter, faster, and more profitable production decisions.
 
 ##output
+![Image](https://github.com/user-attachments/assets/cb33fb3d-7bcf-41a9-a9a2-ef0e107478db)
